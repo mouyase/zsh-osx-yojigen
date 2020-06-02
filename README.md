@@ -11,3 +11,4 @@ Then edit `~/.zshrc` files，find `plugins` config，add `zsh-osx-yojigen` like 
 ```
 source ~/.zshrc
 ```
+
